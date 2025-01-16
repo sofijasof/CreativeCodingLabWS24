@@ -18,6 +18,7 @@ Bad things happening:
 
 Today is the fourth day (16th of january) of our creative coding week. 
 (It's past midnight but to me and my sleeping rhythm it's kinda still thursday.) 
+
 <img width="305" alt="Bildschirmfoto 2025-01-16 um 22 31 29" src="https://github.com/user-attachments/assets/80612020-f587-4b0b-abe0-5c757db5ecaa" />
 
 so far this is what we have now: 
