@@ -1,4 +1,8 @@
 # CreativeCodingLabWS24
+
+![mqdefault](https://github.com/user-attachments/assets/1413bd62-470e-47a6-ad83-a19545d4a43b)
+
+
 This is my repository for my game "Garbage Gambit"
 
 Today is the second day (14th of january) of our creative coding week. 
