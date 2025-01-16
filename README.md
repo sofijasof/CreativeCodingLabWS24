@@ -16,5 +16,16 @@ Bad things happening:
 -since I am making a 'collect and avoid' type of game, so far I have the collect part of it, and have tried to code the avoid part.. well this is not working out/ showing up on my canvas -> still needs fixing
 -while i have items that can be collected, my character has to touch those at a specific angle for it to work, so I need to continue changing the reactToCollision function --> todo as well 
 
+Today is the fourth day (16th of january) of our creative coding week. 
+(It's past midnight but to me and my sleeping rhythm it's kinda still thursday.) 
+<img width="305" alt="Bildschirmfoto 2025-01-16 um 22 31 29" src="https://github.com/user-attachments/assets/80612020-f587-4b0b-abe0-5c757db5ecaa" />
+
+so far this is what we have now: 
+* we have a character that moves within our canvas space. 
+* We have an item that spawns on random places (within reach) -> which can be "eaten" by the character (counter goes up) and which disappear after a few seconds. 
+* we have a "light" that moves horizontally across the canvas width (reaching the character), we also detect whether our player presses a specific button when they collide
+
+still a long way to go, but it looks promising.  
+
 
 
