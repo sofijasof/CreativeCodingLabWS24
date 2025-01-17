@@ -32,5 +32,13 @@ so far this is what we have now:
 
 still a long way to go, but it looks promising.  
 
+Today is the fifth day (17th of january) of our creative coding week. 
+
+Today I added a few more todos to my figjam board that I noticed would improve my game (e.g. sound effects) 
+So far I have made a Game Over screen, that shows the score of the collected Items. I have also hidden this, so it doesn't show up. However, now I am working on the GameOver Screen showing, when my player looses. This is taking some time.
+
+
+
+
 
 
