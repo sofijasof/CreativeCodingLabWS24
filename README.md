@@ -45,7 +45,20 @@ What has been done today:
 - we have a Home Screen now 
 - the logic behind making the Game Over screen visible when loosing is working
 
+Today is the seventh day (189th of january - its actually the 20th and a bit after midnight, but I've been sitting on this for too long) of our creative coding week. 
 
+Dear Diary, today i was fully immersed in the world of toggling the display visibility of my game screen,game over screen and canvas. A problem I was sitting the whole day on, was that "display: hidden" was often ignored, which in my case meant, that my game over screen was showing in front of my canvas, which made the game unplayable. Thankfully, a friend explained to me, that "display: flex" has overriden this value, which caused the problem. 
+
+Which means, my game is actually playable by today. I have 
+* a character, that can move (sideways, jump, pose)
+* items that are generated randomly and in reach
+* a counter for the items "eaten"
+* a movable object that needs to be avoided (or "turned off" in time in case of collision)
+* a home screen (with a button that starts the game)
+* a game over screen (that shows your score, and has clickable buttons (home & playagain)
+
+What's left to do is the actual (pixel) art, so far I have used the skeleton sprites that were provided in 2dbgc lecture. And all of the styling. 
+(And lot's of playthroughs and (probably neccessary) changes to make the game experience as nice as possible) 
 
 
 
