@@ -45,7 +45,7 @@ What has been done today:
 - we have a Home Screen now 
 - the logic behind making the Game Over screen visible when loosing is working
 
-Today is the seventh day (189th of january - its actually the 20th and a bit after midnight, but I've been sitting on this for too long) of our creative coding week. 
+Today is the seventh day (19th of january - its actually the 20th and a bit after midnight, but I've been sitting on this for too long) of our creative coding week. 
 
 Dear Diary, today i was fully immersed in the world of toggling the display visibility of my game screen,game over screen and canvas. A problem I was sitting the whole day on, was that "display: hidden" was often ignored, which in my case meant, that my game over screen was showing in front of my canvas, which made the game unplayable. Thankfully, a friend explained to me, that "display: flex" has overriden this value, which caused the problem. 
 
@@ -59,6 +59,11 @@ Which means, my game is actually playable by today. I have
 
 What's left to do is the actual (pixel) art, so far I have used the skeleton sprites that were provided in 2dbgc lecture. And all of the styling. 
 (And lot's of playthroughs and (probably neccessary) changes to make the game experience as nice as possible) 
+
+Today is the eight day (21th of january)
+
+Dear Diary, today I worked some more on my html and css files. I also showed my working prototype to a tutor and have looked around some of my friends works. 
+I have a doctors appointment tomorrow, that I had to prepare for, so I couldn't do too much today (which is why I worked a lot on the weekend to make up for it). Now everything that is left is the Design part. 
 
 
 
