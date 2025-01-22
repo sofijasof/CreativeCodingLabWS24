@@ -69,6 +69,10 @@ I have a doctors appointment tomorrow, that I had to prepare for, so I couldn't 
 
 Dear diary, I missed to push this on time. On Tuesday i had my doctors appointment were I had had an anesthesia so sadly my brain was very foggy. I watched Youtube tutorials and prepared by making a custom pixel brush for Procreate. 
 
+23th of January 
+As always I am a nightowl - today I have finished drawing all the art for the project: including, background, something for the homescreen, sprites for my character. All is left to do is to change the art that I reused from class with my own. And also see tomorrow in class, if theres any last minute changes.. 
+tomorrow is the last day (before presentation)... :) 
+
 
 
 
