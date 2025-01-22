@@ -65,6 +65,10 @@ Today is the eight day (21th of january)
 Dear Diary, today I worked some more on my html and css files. I also showed my working prototype to a tutor and have looked around some of my friends works. 
 I have a doctors appointment tomorrow, that I had to prepare for, so I couldn't do too much today (which is why I worked a lot on the weekend to make up for it). Now everything that is left is the Design part. 
 
+22th of January 
+
+Dear diary, I missed to push this on time. On Tuesday i had my doctors appointment were I had had an anesthesia so sadly my brain was very foggy. I watched Youtube tutorials and prepared by making a custom pixel brush for Procreate. 
+
 
 
 
