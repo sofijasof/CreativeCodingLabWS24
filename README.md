@@ -60,19 +60,24 @@ Which means, my game is actually playable by today. I have
 What's left to do is the actual (pixel) art, so far I have used the skeleton sprites that were provided in 2dbgc lecture. And all of the styling. 
 (And lot's of playthroughs and (probably neccessary) changes to make the game experience as nice as possible) 
 
-Today is the eight day (21th of january)
+Today is the eight day (20th of january)
 
 Dear Diary, today I worked some more on my html and css files. I also showed my working prototype to a tutor and have looked around some of my friends works. 
 I have a doctors appointment tomorrow, that I had to prepare for, so I couldn't do too much today (which is why I worked a lot on the weekend to make up for it). Now everything that is left is the Design part. 
 
-22th of January 
+21h of January 
 
 Dear diary, I missed to push this on time. On Tuesday i had my doctors appointment were I had had an anesthesia so sadly my brain was very foggy. I watched Youtube tutorials and prepared by making a custom pixel brush for Procreate. 
 
-23th of January 
+22th of January 
 As always I am a nightowl - today I have finished drawing all the art for the project: including, background, something for the homescreen, sprites for my character. All is left to do is to change the art that I reused from class with my own. And also see tomorrow in class, if theres any last minute changes.. 
 tomorrow is the last day (before presentation)... :) 
 
+23th of January
+Dear Diary, today is/was the last day (yey - we made it!) 
+It's finished! I polished it visually and changed the physics/speed a little bit, uploaded my presentation on the server and prepared my text. 
+I'm excited. 
+Bye :) 
 
 
 
