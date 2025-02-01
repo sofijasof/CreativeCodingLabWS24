@@ -42,13 +42,22 @@ Below are the sprites used to create characters and objects in the game:
 
 ---
 
-### Collectable items and the light (Enemy) you should avoid:
+### Collectable trash items you should get to up your score
 <div style="text-align: center;">
-  <img src="enemysheet.png" alt="Enemy Spritesheet" width="500">
-  <p>*Figure 4: Collectable items and "enemy"*</p>
+  <img src="items.png" alt="Enemy Spritesheet" width="500">
+  <p>*Figure 4: Collectable trash items*</p>
 </div>
 
 ---
+
+### The light (Enemy) you should avoid:
+<div style="text-align: center;">
+  <img src="light.png" alt="Enemy Spritesheet" width="500">
+  <p>*Figure 4: "Enemy" you should avoid/ scare off*</p>
+</div>
+
+---
+
 ### Game Over Screen:
 <div style="text-align: center;">
   <img src="enemysheet.png" alt="Enemy Spritesheet" width="500">
