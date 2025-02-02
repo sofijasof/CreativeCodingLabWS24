@@ -9,7 +9,7 @@
 ---
 
 ## 🌐 **Play the Game**
-[Click here to play the game!]([https://sofijasof.github.io/CreativeCodingLabWS24]
+[Click here to play the game!](https://sofijasof.github.io/CreativeCodingLabWS24)
 
 ---
 
