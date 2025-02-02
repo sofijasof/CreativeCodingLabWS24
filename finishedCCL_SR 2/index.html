@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Garbage Gambit</title>
+    <link href="https://fonts.googleapis.com/css2?family=Jersey+10&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+
+</head>
+<body>
+
+  
+<!-- Game Container (evt. background img, canvas,..) -->
+
+<div id="game-container" class="flex">
+
+  <div id="background"></div>
+  <canvas id="canvas" width="1000" height="500"></canvas>
+
+</div> 
+
+<!-- Game Over Screen -->
+<div id="game-over" class="flex" >
+  
+  
+  <h1>Game Over</h1>
+  <p>Your Score: <span id="finalScore"></span></p>
+
+  <img src="./images/raccsadgif.gif" alt="Gif of sad raccoon" width="320px" height="252px">
+
+  <div class="game-over-options">
+    <button onclick="window.location.reload();">Back to homescreen</button>
+  </div>
+</div>
+
+<!-- Menue Screen with 2 subpages -->
+
+<div id="game-screen">
+  <div id="gs">
+  <h1>Garbage Gambit</h1>
+  <div class="home-options">
+    <button onclick="showGame()">Play</button>
+    <button onclick="showHowToPlay()">How to play</button>
+    <button onclick="showStory()">Story</button>
+  </div></div>
+    <img id="raccoonPicture" src="./images/homepic.png" alt="The main screen pic of the racoon"  class="raccoon-image" width="250" height="300">
+  
+  
+  <!-- How to Play Section -->
+  <div id="how-to-play" class="flex">
+   
+    <h4>Goal: Move with "w","a","d". Collect as much trash as possible while avoiding the (flash)light. If it is centered on you, press "q" to pose to scare it away. Attention: You can't move while posing</h4>  
+  </div>
+
+  <!-- Story Section -->
+  <div id="story" class="flex">
+    <h4>
+      I am a working raccoon, a hardworking raccoon. my talents aren't always appreciated. i am … u could say employed.. by this house, though they don't wish me here. tho my incredible stealth skills have helped me avoid them. young ruffians throw their delicious trash that is mine to keep 
+    </h4>
+  </div>
+  
+  
+  
+  
+  <script type="module" src="./scripts/modules/global.js"></script>
+  <script type="module" src="./scripts/modules/input.js"></script>
+  <script type="module" src="./scripts/modules/main.js"></script>
+
+
+</body>
+</html>
